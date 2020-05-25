@@ -15,8 +15,13 @@ const Recipe = ({title,ingredients,image,url}) =>{
                     <li>{ingredient.text}</li>
                 ))}
             </ol>
+            <a className={style.recipeLink} style={{display: "table-cell"}} href={url} target="_blank">Recipe Link:</a>
             <p>
-                Recipe link: {url}
+
+
+
+
+
             </p>
         </div>
     );
