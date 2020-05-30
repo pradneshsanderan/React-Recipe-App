@@ -1,3 +1,37 @@
+## Recipe App
+A React app that shows the ingredients of a recipe, the picture of the dish and a link to the recipe based on dish name searched by the user. The App uses an api that searches various sites for dishes with names that match the searched word or sentence. 
+
+## What I have Learnt:
+* How to add clickable links to the site
+* How to use Cards in React
+* How to filter Various Data from an Api
+* How to display images received from the API on the page
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/59190915/83333839-88159300-a29a-11ea-8737-9f67e447f3a2.png)
+![image](https://user-images.githubusercontent.com/59190915/83333863-a4193480-a29a-11ea-91c1-39eb54592c13.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
